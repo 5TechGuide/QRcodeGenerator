@@ -5,8 +5,6 @@ In this example, we create a QR code instance and add the data "Hello, World!" t
 Note that you may need to install the qrcode library using pip before running this code.
 More detail go to: https://5techguide.com
 # How to use:
-Sure, here are the steps to use and post the run.py file on GitHub:
-
 Make sure you have Python installed on your computer. You can download Python from the official website: python.org/downloads/
 
 Download the run.py file to your local computer.
